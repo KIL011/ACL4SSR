@@ -3,6 +3,34 @@
 # AUTHOR: 你
 # UPDATED: 2025-09-09
 
+# === 美国 / 节点规则 ===
+DOMAIN-SUFFIX,dhl.com
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,acehardware-vendors.com
+DOMAIN-SUFFIX,naturaedecor.com
+DOMAIN-SUFFIX,nearlynatural.com
+DOMAIN-SUFFIX,rona.ca
+DOMAIN-SUFFIX,aldi.us
+DOMAIN-SUFFIX,qvc.com
+DOMAIN-SUFFIX,bmr.ca
+DOMAIN-SUFFIX,canadiantire.ca
+DOMAIN-SUFFIX,burlington.com
+DOMAIN-SUFFIX,hobbylobby.com
+DOMAIN-SUFFIX,sierra.com
+DOMAIN-SUFFIX,homesense.com
+DOMAIN-SUFFIX,homegoods.com
+DOMAIN-SUFFIX,marshalls.com
+DOMAIN-SUFFIX,tjx.com
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,tractorsupply.com
+DOMAIN-SUFFIX,tjmaxx.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,acehardware.com
+DOMAIN-SUFFIX,homedepot.com
+DOMAIN-SUFFIX,lowes.com
+
 # === AI Rules ===
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
@@ -83,28 +111,3 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-
-# === 美国 / 节点规则 ===
-DOMAIN-SUFFIX,acehardware-vendors.com
-DOMAIN-SUFFIX,naturaedecor.com
-DOMAIN-SUFFIX,nearlynatural.com
-DOMAIN-SUFFIX,rona.ca
-DOMAIN-SUFFIX,aldi.us
-DOMAIN-SUFFIX,qvc.com
-DOMAIN-SUFFIX,bmr.ca
-DOMAIN-SUFFIX,canadiantire.ca
-DOMAIN-SUFFIX,burlington.com
-DOMAIN-SUFFIX,hobbylobby.com
-DOMAIN-SUFFIX,sierra.com
-DOMAIN-SUFFIX,homesense.com
-DOMAIN-SUFFIX,homegoods.com
-DOMAIN-SUFFIX,marshalls.com
-DOMAIN-SUFFIX,tjx.com
-DOMAIN-SUFFIX,walmart.com
-DOMAIN-SUFFIX,tractorsupply.com
-DOMAIN-SUFFIX,tjmaxx.com
-DOMAIN-SUFFIX,costco.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,acehardware.com
-DOMAIN-SUFFIX,homedepot.com
-DOMAIN-SUFFIX,lowes.com

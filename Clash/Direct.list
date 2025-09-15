@@ -65,7 +65,6 @@ IP-CIDR,1.12.12.12/32,no-resolve
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,oppo.com
@@ -78,7 +77,6 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,ele.me

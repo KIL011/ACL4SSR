@@ -1,9 +1,4 @@
-# 自设规则整合列表
-# NAME: 定制
-# AUTHOR: Jamie
-# UPDATED: 2025-09-12
-
-# === 美国 / 节点规则 ===
+# Mylist
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,ups.com

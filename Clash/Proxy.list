@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nflxvideo.net
 
 # > Porn
-DOMAIN-KEYWORD,porn
+DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xhamster.com

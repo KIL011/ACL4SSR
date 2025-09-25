@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nflxvideo.net
 
 # > Porn
-DOMIAN-SUFFIX,missav123.com
+DOMAIN-SUFFIX,missav123.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos.com
@@ -93,6 +93,10 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,www.googleapis.com
+DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
@@ -116,22 +120,9 @@ DOMAIN-SUFFIX,telegra.ph
 
 # Whatsapp
 DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,web.whatsapp.com
-#IP-CIDR,18.194.0.0/15,no-resolve
-#IP-CIDR,34.224.0.0/12,no-resolve
-#IP-CIDR,54.242.0.0/15,no-resolve
-#IP-CIDR,50.22.198.204/30,no-resolve
-#IP-CIDR,208.43.122.128/27,no-resolve
-#IP-CIDR,108.168.174.0/16,no-resolve
-#IP-CIDR,173.192.231.32/27,no-resolve
-#IP-CIDR,158.85.5.192/27,no-resolve
-#IP-CIDR,174.37.243.0/16,no-resolve
-#IP-CIDR,158.85.46.128/27,no-resolve
-#IP-CIDR,173.192.222.160/27,no-resolve
-#IP-CIDR,184.173.128.0/17,no-resolve
-#IP-CIDR,158.85.224.160/27,no-resolve
-#IP-CIDR,75.126.150.0/16,no-resolve
-#IP-CIDR,69.171.235.0/16,no-resolve
+DOMAIN-SUFFIX,edge-mqtt.facebook.com
 
 # Wikipedia 维基相关域名
 DOMAIN-SUFFIX,wikimedia.org
@@ -140,32 +131,3 @@ DOMAIN-SUFFIX,wikibooks.org
 
 # Zoom
 DOMAIN-SUFFIX,zoom.us
-
-# 国外域名关键字
-#DOMAIN-KEYWORD,1e100
-#DOMAIN-KEYWORD,abema
-#DOMAIN-KEYWORD,appledaily
-#DOMAIN-KEYWORD,avtb
-#DOMAIN-KEYWORD,beetalk
-#DOMAIN-KEYWORD,blogspot
-#DOMAIN-KEYWORD,dropbox
-#DOMAIN-KEYWORD,facebook
-#DOMAIN-KEYWORD,fbcdn
-#DOMAIN-KEYWORD,github
-#DOMAIN-KEYWORD,gmail
-#DOMAIN-KEYWORD,google
-#DOMAIN-KEYWORD,instagram
-#DOMAIN-KEYWORD,porn
-#DOMAIN-KEYWORD,sci-hub
-#DOMAIN-KEYWORD,telegram
-#DOMAIN-KEYWORD,twitter
-#DOMAIN-KEYWORD,whatsapp
-
-# 国外域名GeoIP
-#GEOIP,EU
-#GEOIP,HK
-#GEOIP,JP
-#GEOIP,KR
-#GEOIP,SG
-#GEOIP,TW
-#GEOIP,GB

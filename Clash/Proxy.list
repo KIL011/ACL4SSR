@@ -9,17 +9,6 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nflxvideo.net
 
-# > Porn
-DOMAIN-SUFFIX,missav123.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,redtube.com
-DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,bongacams.com
-DOMAIN-SUFFIX,livejasmin.com
-
 # > TikTok
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
@@ -123,3 +112,14 @@ DOMAIN-SUFFIX,wikibooks.org
 
 # Zoom
 DOMAIN-SUFFIX,zoom.us
+
+# > Porn
+DOMAIN-SUFFIX,missav123.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,livejasmin.com
